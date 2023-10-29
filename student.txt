@@ -1,0 +1,5 @@
+Student name: Daan Tas
+Student number: 721872
+Student class: inf1c
+GitHub Repository: https://github.com/Gingi1/gingi1.github.io
+GitHub Pages URL: https://gingi1.github.io/
